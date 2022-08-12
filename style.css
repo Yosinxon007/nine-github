@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #eee;
+}
+.kat{
+    width: 60%;
+    height: 70vh;
+    margin: 50px 250px;
+    border-radius: 12px;
+    background-color: dodgerblue;
+    display: flex;
+}
+.ka{
+    width: 50%;
+    height: 70vh;
+    border-radius: 12px 0px 0px 12px;
+    background-color:white;
+}
+.title{
+    text-align: center;
+}
+.icons{
+    text-align: center;
+}
+.icons i{
+    font-size: 25px;
+    margin: 20px;
+}
+.btn{
+    width: 220px;
+    height: 34px;
+    margin-left: 40px;
+}
+.matn{
+    text-align: center;
+}
+.btn1{
+    width: 140px;
+    height: 34px;
+    background-color: dodgerblue;
+    border: 1px solid dodgerblue;
+    color: white;
+    margin-left: 75px;
+    border-radius: 14px;
+}
+.h1{
+ margin-left: 100px;
+}
+.paragraph{
+    margin-left: 30px;
+    color: white;
+}
+.btn2{
+    width: 140px;
+    height: 34px;
+    background-color: dodgerblue;
+    border: 1px solid white;
+    color: white;
+    margin-left: 75px;
+    border-radius: 14px;
+}
